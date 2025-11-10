@@ -296,7 +296,7 @@
             responseTimeText: '',
             poweredBy: {
                 text: 'Powered by Salvo Rincione',
-                link: 'https://Salvo Rincione'
+                link: 'https://salvorincione.com'
             }
         },
         style: {
