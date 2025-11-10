@@ -1,4 +1,3 @@
-// Chat Widget Script
 (function() {
     // Create and inject styles
     const styles = `
@@ -296,8 +295,8 @@
             welcomeText: '',
             responseTimeText: '',
             poweredBy: {
-                text: 'Salvo Rincione',
-                link: 'https://salvorincione.com'
+                text: 'Powered by Salvo Rincione',
+                link: 'https://Salvo Rincione'
             }
         },
         style: {
